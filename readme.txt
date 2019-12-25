@@ -1,1 +1,1 @@
-Creating a branch is quikly
+Creating a branch is quikly & simple
